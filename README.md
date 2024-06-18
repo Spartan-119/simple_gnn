@@ -10,7 +10,7 @@ The project is structured as follows:
 simple_gnn/
 ├── gnn/
 │ ├── init.py
-│ ├── models.py
+│ ├── model.py
 │ ├── data.py
 │ ├── train.py
 │ └── evaluate.py

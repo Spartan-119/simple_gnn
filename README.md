@@ -15,6 +15,7 @@ simple_gnn/
 │ ├── train.py
 │ └── evaluate.py
 ├── main.py
+└── LICENSE
 └── README.md
 └── requirements.txt
 ```

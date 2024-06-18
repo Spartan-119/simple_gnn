@@ -1,5 +1,7 @@
 # A Simple Graph Neural Network (simple_gnn) Implementation
 
+![output](output.gif)
+
 This repository contains a PyTorch implementation of a Graph Neural Network (GNN) for node classification tasks on graph-structured data. The implementation is based on the PyTorch Geometric library and follows a modular design, separating the code into different modules for better organization and maintainability.
 
 ## Project Structure

@@ -6,7 +6,7 @@ This repository contains a PyTorch implementation of a Graph Neural Network (GNN
 
 The project is structured as follows:
 
-`
+```
 gnn_project/
 ├── gnn/
 │ ├── init.py
@@ -17,7 +17,7 @@ gnn_project/
 ├── main.py
 └── README.md
 └── requirements.txt
-`
+```
 
 ## Overview
 
@@ -41,26 +41,24 @@ The GNN model implemented in this repository consists of the following layers:
 ## Usage:
 Run the following commands on `Windows`:
 
-`
+```
 git clone https://github.com/Spartan-119/simple_gnn.git
 cd simple_gnn
 python -m venv gnn_venv
 gnn_venv\Scripts\activate
 pip install -r requirements.txt
 python main.py
-`
+```
 
 Run the following commands on `MacOS/Linux`:
-
-`
+```
 git clone https://github.com/Spartan-119/simple_gnn.git
 cd simple_gnn
 python3 -m venv gnn_venv
 source gnn_venv/bin/activate
 pip install -r requirements.txt
 python3 main.py
-`
-
+```
 
 This will load the Cora citation network dataset, train the GNN model, and evaluate its performance on the test set.
 

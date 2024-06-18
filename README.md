@@ -7,7 +7,7 @@ This repository contains a PyTorch implementation of a Graph Neural Network (GNN
 The project is structured as follows:
 
 ```
-gnn_project/
+simple_gnn/
 ├── gnn/
 │ ├── init.py
 │ ├── models.py
